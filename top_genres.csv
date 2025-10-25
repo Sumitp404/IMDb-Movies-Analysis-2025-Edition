@@ -1,0 +1,11 @@
+genres,movie_count
+['Drama'],16
+"['Crime', 'Drama']",14
+"['Adventure', 'Animation', 'Comedy']",9
+"['Crime', 'Drama', 'Mystery']",9
+"['Biography', 'Drama', 'History']",8
+"['Action', 'Adventure', 'Sci-Fi']",7
+"['Drama', 'War']",7
+"['Action', 'Adventure', 'Animation']",7
+"['Drama', 'Mystery', 'Thriller']",7
+"['Drama', 'Romance']",6
